@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="CsvHelper" Version="33.1.0" />
-    <PackageReference Include="RavenDB.Client" Version="7.1.2-rc-71008" />
+    <PackageReference Include="RavenDB.Client" Version="7.2.0-nightly-20251215-0747" />
   </ItemGroup>
   
   <ItemGroup>
